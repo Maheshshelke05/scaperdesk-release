@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: ScaperDesk-1.0.0-Setup.exe
+    sha512: LxYMvAAio3Gz4fWmSEP4ybpNhL//lXOb+sZIrJXnLqaWBY3IQKx1RU2HCnP0xahtvPop+CZ/UurSozv43+jMCg==
+    size: 95704118
+path: ScaperDesk-1.0.0-Setup.exe
+sha512: LxYMvAAio3Gz4fWmSEP4ybpNhL//lXOb+sZIrJXnLqaWBY3IQKx1RU2HCnP0xahtvPop+CZ/UurSozv43+jMCg==
+releaseDate: '2026-07-07T07:04:32.200Z'
